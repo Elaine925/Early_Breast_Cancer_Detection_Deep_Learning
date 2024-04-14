@@ -12,6 +12,8 @@ Data/jpeg/
 Calc train enhanced images.csv
 Mass train enhanced images.csv
 Scratch/
+Model/
+
 # Distribution / packaging
 .Python
 build/
