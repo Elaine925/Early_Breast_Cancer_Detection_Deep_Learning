@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore Files
+Data/restructured jpeg/
+Data/jpeg/
+Calc train enhanced images.csv
+Mass train enhanced images.csv
+Scratch/
 # Distribution / packaging
 .Python
 build/
