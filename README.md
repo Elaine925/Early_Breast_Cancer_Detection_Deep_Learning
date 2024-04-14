@@ -97,7 +97,9 @@ Future improvement should prioritize the enhancement of mammography images to im
 
 
 
-##### **Citations**
+
+
+#### **Citations**
 
 Data Citation: Sawyer-Lee, R., Gimenez, F., Hoogi, A., & Rubin, D. (2016). Curated Breast Imaging Subset of Digital Database for Screening Mammography (CBIS-DDSM) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY
 
